@@ -62,6 +62,9 @@ Refer to [Show Off Your Config](https://github.com/bhilburn/powerlevel9k/wiki/Sh
 Now, just restart iTerm and check it out!
 
 
+Reference: https://medium.freecodecamp.org/how-you-can-style-your-terminal-like-medium-freecodecamp-or-any-way-you-want-f499234d48bc
+
+
 
 
 
