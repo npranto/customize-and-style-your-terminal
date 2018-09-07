@@ -8,9 +8,9 @@
 * [iTerm2 Color Themes](https://github.com/mbadolato/iTerm2-Color-Schemes): choose any theme of your choice to customize iTerm2 looks
 
 ### Prerequisites: 
-=> install [Homebrew](https://brew.sh/), [iTerm2](https://www.iterm2.com/downloads.html) and [Oh-My-Zsh](https://ohmyz.sh/)
+* install [Homebrew](https://brew.sh/), [iTerm2](https://www.iterm2.com/downloads.html) and [Oh-My-Zsh](https://ohmyz.sh/)
 
-### Follow Thorough...
+### Follow Through...
 
 #### To Update Oh-My-Zsh
 To customize oh-my-zsh, edit ~/.zshrc file, located on your home directory
@@ -77,4 +77,4 @@ Refer to [Show Off Your Config](https://github.com/bhilburn/powerlevel9k/wiki/Sh
 Now, just restart iTerm2 and check it out!
 
 
-Reference: https://medium.freecodecamp.org/how-you-can-style-your-terminal-like-medium-freecodecamp-or-any-way-you-want-f499234d48bc
+**Reference**: https://medium.freecodecamp.org/how-you-can-style-your-terminal-like-medium-freecodecamp-or-any-way-you-want-f499234d48bc
